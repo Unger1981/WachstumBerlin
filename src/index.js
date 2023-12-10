@@ -1,0 +1,1 @@
+lockAllowed = window.screen.lockOrientation("portrait");
